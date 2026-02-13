@@ -230,17 +230,6 @@ Error: java.lang.ClassNotFoundException
 
 **Solution:** Recompile with `javac -d bin -sourcepath src src/**/*.java`
 
-## Project Requirements Met
-
-✅ Multiple server processes (3 instances)  
-✅ Primary-Backup architecture  
-✅ Heartbeat mechanism (3s intervals)  
-✅ Automatic failover (lowest ID election)  
-✅ Client discovery via monitor  
-✅ Timestamped logging  
-✅ Failure simulation scripts  
-✅ Clean OOP design (inheritance, encapsulation)
-
 ## Future Improvements
 
 - State replication between primary and backups
@@ -251,7 +240,7 @@ Error: java.lang.ClassNotFoundException
 
 ## Team Members
 
-[Add your team member information here]
+Faneesh Juneja, Manya, Eesha, Inosh, Farhan
 
 ## License
 
